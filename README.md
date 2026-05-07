@@ -19,4 +19,6 @@ This project checks the strength of passwords using:
 
 ## Author
 Teja
-output.png
+## Screenshot
+
+![Output](./output.png)
